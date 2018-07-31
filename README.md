@@ -32,3 +32,8 @@ which two clubs have the same number of points the club with the best goal diffe
 should appear first.
 • Add a played match with its score, so that the statistics of the two clubs involved
 and the premier league table are updated automatically.
+
+```
+Please find the submitted report of the course work by following link
+```
+[Coursework Report](https://github.com/isuruamantha/OOP-1---CW-2/blob/master/Siriwardena_2014217.pdf)
